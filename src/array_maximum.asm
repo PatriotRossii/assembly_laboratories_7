@@ -21,10 +21,10 @@ loop:
 	cmovg eax, esi
 
 	; увеличиваем индекс
-	inc rdx
+	inc edx
 
 	; проверяем, не достигли ли мы конца
-	cmp rcx, rdx
+	cmp ecx, edx
 	jne loop
 end:
 	ret

@@ -5,9 +5,9 @@ ArrayMinimum_:
 	; это первый элемент массива
 	mov eax, [rdi]
 
-	; ecx = length
+	; сохраняем длину массива
 	mov ecx, esi
-	; edx = 0
+	; инициализация счетчика текущего индекса
 	xor edx, edx
 
 loop:
@@ -24,10 +24,10 @@ loop:
 
 false_result:
 	; увеличиваем индекс
-	inc rdx
+	inc edx
 
 	; проверяем, не достигли ли мы конца
-	cmp rcx, rdx
+	cmp ecx, edx
 	jne loop
 end:
 	ret
