@@ -5,8 +5,8 @@
 | | |
 |-|-|
 | Задание | см. ниже |
-| Предыдущая лабораторная работа | [Лабораторная работа №6](https://github.com/PatriotRossii/assembly_laboratories_5) |
-| Следующая лабораторная работа | [Лабораторная работа №8](https://github.com/PatriotRossii/assembly_laboratories_7) |
+| Предыдущая лабораторная работа | [Лабораторная работа №6](https://github.com/PatriotRossii/assembly_laboratories_6) |
+| Следующая лабораторная работа | [Лабораторная работа №8](https://github.com/PatriotRossii/assembly_laboratories_8) |
 
 * [Перечень всех лабораторных работ](https://github.com/BFI-2202/assembly_laboratories)
 
